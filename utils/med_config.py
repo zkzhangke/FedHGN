@@ -18,7 +18,7 @@ pred_in_n_rev_etypes={
 
 
 
-root_path="/path/to/kdd2022_fedhg/"
+root_path="/path/to/FedHGN/"
 substring=''
 def get_path(dataset,num_owners):
     local_info_prefix=root_path +"local/info"+substring+'/'+ dataset+"_"+str(num_owners)
