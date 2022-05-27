@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/path/to/kdd2022_fedhg/")
+sys.path.append("/path/to/FedHGN/")
 from utils import dblp_config
 import torch as th
 import dgl
